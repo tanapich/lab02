@@ -1,0 +1,58 @@
+
+  body {
+  font-family: Waffle Regular,TH Sarabun New;
+    color: #000000;
+    background-color: #D3D3D3 }
+	 h1 {
+    font-family: Waffle Regular,TH Sarabun New;
+	 font-size: 20px;}
+	 h2 {
+    font-family: Waffle Regular,TH Sarabun New;
+	 font-size: 17px;}
+	 h3 {
+    font-family: Waffle Regular,TH Sarabun New;
+	 font-size: 30px;}
+	
+	
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	}
+
+	li {
+    float: left;
+	}
+
+	li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	}
+	
+	li a:hover {
+    background-color: #FFE4C4;
+	}
+	
+	table, td,th {
+    border: 1px solid black;
+	}
+	
+	table {
+    border-collapse: collapse;
+    width: 100%;
+	background-color:#FFDAB9;
+	}
+
+	td {
+    height: 50px;
+    vertical-align: bottom;
+	background-color:#FFDAB9;
+	}
+
+
+ 
